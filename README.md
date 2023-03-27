@@ -2,10 +2,10 @@
 
 <div class="container">
   <a href="https://github.com/mr-fard4y" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbakhtin&layout=compact&theme=dark" align="left" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbakhtin&layout=compact&theme=dark" align="left" height="150px"/>
   </a>
   <a href="https://github.com/mr-fard4y" >
-    <img src="https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&theme=dark&hide=stars" align="left" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&theme=dark&hide=stars" align="left" height="150px"/>
   </a>
 </div>
 
