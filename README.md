@@ -2,10 +2,10 @@
 
 <div class="container">
   <a href="https://github.com/mr-fard4y" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbakhtin&layout=compact&theme=30,e96443,904e95&text_color=fff&title_color=fff&hide=html,tex" align="left" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbakhtin&layout=compact&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&hide=html,tex" align="left" height="150px"/>
   </a>
   <a href="https://github.com/mr-fard4y" >
-    <img src="https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&theme=30,e96443,904e95&text_color=fff&title_color=fff&icon_color=fff&hide=stars&include_all_commits=true&hide_rank=true" align="left" height="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&bg_color=30,e96443,904e95&text_color=fff&title_color=fff&icon_color=fff&hide=stars&include_all_commits=true&hide_rank=true" align="left" height="150px"/>
   </a>
 </div>
 
