@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Jurij Baktin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&theme=gradient)](https://github.com/jbakhtin)
-[![Jurij Baktin's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbakhtin&layout=compact)](https://github.com/jbakhtin)
+[![Jurij Baktin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&theme=dark&hide=stars)](https://github.com/jbakhtin)
+[![Jurij Baktin's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbakhtin&layout=compact&theme=dark)](https://github.com/jbakhtin)
 
 <!--
 **jbakhtin/jbakhtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
