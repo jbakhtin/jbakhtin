@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jurij Baktin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&theme=onedark)](https://github.com/jbakhtin)
+[![Jurij Baktin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&theme=github_dark)](https://github.com/jbakhtin)
 
 <!--
 **jbakhtin/jbakhtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
