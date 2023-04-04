@@ -7,6 +7,10 @@
   <a href="https://github.com/jbakhtin" >
     <img src="https://github-readme-stats.vercel.app/api?username=jbakhtin&show_icons=true&bg_color=45,ffdc14,cd996a,622ce0&text_color=fff&title_color=fff&icon_color=fff&hide=stars&include_all_commits=true&hide_rank=true" align="left" height="150px"/>
   </a>
+</div>
+
+###
+<div class="container">
   <a href="https://leetcode.com/jbakhtin/" >
     <img src="https://leetcard.jacoblin.cool/jbakhtin" align="left" height="150px"/>
   </a>
