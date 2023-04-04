@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="container" style="margin-bottom=20px;">
+<div class="container" style="margin=0 0 0 20;">
   <a href="https://github.com/jbakhtin" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbakhtin&layout=compact&&bg_color=45,622ce0,cd996a,ffdc14&text_color=fff&title_color=fff&hide=html,tex" align="left" height="150px"/>
   </a>
