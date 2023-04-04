@@ -9,6 +9,8 @@
   </a>
 </div>
 
+![](https://leetcard.jacoblin.cool/jbakhtin?animation=false)
+
 <!--
 **jbakhtin/jbakhtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
