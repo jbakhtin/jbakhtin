@@ -9,7 +9,11 @@
   </a>
 </div>
 
-![](https://leetcard.jacoblin.cool/jbakhtin?animation=false)
+<div class="container">
+  <a href="https://leetcode.com/jbakhtin/" >
+    <img src="https://leetcard.jacoblin.cool/jbakhtin" align="left" height="150px"/>
+  </a>
+</div>
 
 <!--
 **jbakhtin/jbakhtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
