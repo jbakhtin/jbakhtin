@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a PHP-Go Developer in a small IT company in Krasnoyarsk
 - 🌱 I’m currently learning:
-  - [ ] Сcertificated Golang Developer
+  - [x] Сcertificated Golang Developer
   - [ ] SQL "Basic knowledge" certificate with [SQL-Ex](https://www.sql-ex.ru)
   - [ ] SQL "All requirements" certificate with [SQL-Ex](https://www.sql-ex.ru)
   - [ ] Algoritms with [LeetCode](https://leetcode.com/jbakhtin/)
